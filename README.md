@@ -491,10 +491,10 @@ I built this project to combine my interests in:
 - Machine learning
 
 **Connect with me:**
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [cryptoniac.id](https://cryptoniac.id)
-- 📊 GitHub: [@yourusername](https://github.com/yourusername)
+- 📧 Email: syujadewakusuma@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/suja-dewa-6326b130b/
+- 🌐 Portfolio: cryptoniac.id 
+- 📊 GitHub: [@whard2205](https://github.com/whard2205)
 
 **Currently seeking opportunities in:**
 - Quantitative Trading / Research
@@ -552,30 +552,6 @@ I built this project to combine my interests in:
 - Comply with your local regulations
 - Cryptocurrency trading may be restricted in your jurisdiction
 - Tax implications vary by location—consult tax professionals
-
----
-
-## 📊 Quick Stats Summary
-```
-╔══════════════════════════════════════════════════════════════╗
-║                     PROJECT STATISTICS                        ║
-╠══════════════════════════════════════════════════════════════╣
-║  Development Period:        Jun 2025 - Nov 2025              ║
-║  Code Lines:                ~2,000+ (Python)                 ║
-║  Backtests Run:             50+ configurations               ║
-║  Data Points Analyzed:      6,000+ hours of price data       ║
-║  Total Trades Tested:       22 completed trades              ║
-║  Cryptocurrencies:          5 tested (BTC, ETH, SOL, BNB, XRP)║
-║  Time Periods:              6 different market conditions    ║
-║  Parameters Tested:         10+ combinations                 ║
-║  Strategies Compared:       5 different approaches           ║
-║  Sharpe Ratio:              2.38 (risk-adjusted excellence)  ║
-║  Win Rate:                  91.7% (exceptional consistency)  ║
-║  Max Drawdown:              -4.97% (excellent capital prot.) ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
 
 ## 🔗 Related Resources
 
