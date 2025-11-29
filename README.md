@@ -481,7 +481,7 @@ See [LICENSE](LICENSE) file for details.
 
 ## 👤 About Me
 
-**[Your Name]**  
+**[SYUJA DEWA KUSUMA]**  
 Fresh Graduate | Data Science Enthusiast | Quantitative Trading Explorer
 
 I built this project to combine my interests in:
